@@ -37,7 +37,8 @@
     xxx means what?
 
 	这款是定制款，没有库存了。能告诉我，你想要多少款吗
-	This one is customized item,no stock.Could I know how many sets（set是一套的单位，pair是一双的单位，piece是一件的单位） do you need?
+	This one is customized item,no stock.Could I know how many sets（set是一套的单位，pair是一双的单位，
+	piece是一件的单位） do you need?
 
 ### 量太小，拒绝客户定制
 	I'm sorry.You had better choose other items which in stock.Because your order is too small to be customize.
@@ -175,3 +176,21 @@
 
 ### 催单
 	You can place the order by youself. Or send me your shipping address and phone number ,then I will send the invoice for you.
+### 数量觉得价格
+	The price varied amount different order quantity.
+
+### 问你要catalog
+
+	 No. But we grouped the products by different collection 
+
+### 快递，快慢
+
+	for the cheap shipping, it will take 2 week
+	for the fast shipping around one week
+	fast shipping will be around over USd 40 for the cheap one usd 20
+
+### 
+	the naked feel 赤裸的感觉，贴肤的感觉
+
+### 
+	推荐相似款
