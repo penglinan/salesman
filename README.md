@@ -1,4 +1,4 @@
-#Answer
+body#Answer
 
 ###questions 1：客户要印Logo。
 	
@@ -194,3 +194,49 @@
 
 ### 
 	推荐相似款
+
+###  问客户主要卖什么
+	Could I know your main business? 
+	Do you focus on the funtion of the yoga leggings or you care about the fashionality? 
+	It will decide what kind of leggings i should recommend you.
+
+
+### 客户不满足订货量，询价的是定做商品
+
+	The leggings and bra you inquired is a customzied item. We do not make stock it, the MOQ is 200 sets per color.  We can just produce 50 sets. 
+
+	As for your present order quantity, you had better choose our ready item. We have many high quality nylon yoga leggings and bra in stock. 
+
+###  what is the higher quality fabric that you use & how much does it add in cost?
+	We have the material 86 nylon 14 spandex 290 gsm
+	And also some material similar to nu lu
+	The price will based on your size chart and material requirements
+
+### I see, i can do the slower express. Not in a rush right now
+
+### 问你要你没有的尺码的时候，怎么办！
+	Sorry, the biggest we have is Large.
+	They are very stretchy. Even for the large size could fit fat body
+	If you insist on the 2Xl and 3Xl, they could be customized.
+
+### 客户问了很多商品
+	 In the far begging, you have inquired many models, which color and size you you want to initial the sample ?
+
+### 有的客户直接问价格，都不说要那个
+	All the price should be based on the certain model 
+
+	We care more your order quantity for each model instead of the total order quantity 
+	If your 500 pairs will cover 50 models,  you still insist that price, we have not interest 
+	The price will varies among different model and quantity 
+	From the far beginning, I have asked you which model you want 
+
+### 客户想拿到货再付钱
+	The payment is trade assurance. You make the payment to this platform first. Once getting your confirmation, the platform will release the money with us. 
+
+
+### 客户能不能货到付款
+
+	I completely understand your situation.But according to our company pocily,it isn't  acceptable.
+	You can check the following link about trade assurance in Alibaba.It is very safe.
+
+	https://tradeassurance.alibaba.com/
