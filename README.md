@@ -58,13 +58,15 @@ body#Answer
 	Also, what kind of packaging do you offer?
     
 	answer
-	Yes we can print your logo on the leggings and top. But it is customized item, moq 200 sets per color. Our standard package is Plastic bag.
+	Yes we can print your logo on the leggings and top. But it is customized item,
+	 moq 200 sets per color. Our standard package is Plastic bag.
 	
 	让他自己加标签
 	You can add your label over there 
 
 ###收集客户问题
-	Hi yes I would like to know if i could receive a sample for fabric testing. And also i would like to know if this comes in a set or separate. Thanks
+	Hi yes I would like to know if i could receive a sample for fabric testing. 
+	And also i would like to know if this comes in a set or separate. Thanks
 
 
 ### 期待下次和你做大生意
@@ -120,7 +122,9 @@ body#Answer
 
 ###讲价
 
-	Hello thank you for your information I am interested in the style of the yellow high waist( but we don’t want yellow colour we want black). We need at price of $4 each for 200 pieces of sizes UK  s,m,l . Is this possible?
+	Hello thank you for your information I am interested in the style of the yellow high waist
+	( but we don’t want yellow colour we want black). 
+	We need at price of $4 each for 200 pieces of sizes UK  s,m,l . Is this possible?
 
 ### 积累
 
@@ -136,7 +140,8 @@ body#Answer
 	1、打开三个平台，看下里面同行的数据，这个就不用我教你怎么看了吧？搜索产品关键词即可
 	2、打开google，用产品关键词+supplier或者manufacture搜索一下，看看这三个平台哪个排名靠前
 	
-	综合对比一下，同行最多的不要选，因为你只花钱做个基础会员几乎无效果。同行最少的也不要选，说明这个平台的数据量不够大。然后看一下google里三个平台的排名，综合考虑选中间的那个就可以了。
+	综合对比一下，同行最多的不要选，因为你只花钱做个基础会员几乎无效果。同行最少的也不要选，说明这个平台的数据量不够大。
+	然后看一下google里三个平台的排名，综合考虑选中间的那个就可以了。
 	
 	当然，你还有更多的选择，不如建立以企业外贸网站为核心的推广方式，这种方式得到的专业询盘比较多。
 
@@ -203,9 +208,11 @@ body#Answer
 
 ### 客户不满足订货量，询价的是定做商品
 
-	The leggings and bra you inquired is a customzied item. We do not make stock it, the MOQ is 200 sets per color.  We can just produce 50 sets. 
+	The leggings and bra you inquired is a customzied item. 
+	We do not make stock it, the MOQ is 200 sets per color.  We can just produce 50 sets. 
 
-	As for your present order quantity, you had better choose our ready item. We have many high quality nylon yoga leggings and bra in stock. 
+	As for your present order quantity, you had better choose our ready item. 
+	We have many high quality nylon yoga leggings and bra in stock. 
 
 ###  what is the higher quality fabric that you use & how much does it add in cost?
 	We have the material 86 nylon 14 spandex 290 gsm
@@ -231,7 +238,8 @@ body#Answer
 	From the far beginning, I have asked you which model you want 
 
 ### 客户想拿到货再付钱
-	The payment is trade assurance. You make the payment to this platform first. Once getting your confirmation, the platform will release the money with us. 
+	The payment is trade assurance. You make the payment to this platform first. 
+	Once getting your confirmation, the platform will release the money with us. 
 
 
 ### 客户能不能货到付款
@@ -240,3 +248,8 @@ body#Answer
 	You can check the following link about trade assurance in Alibaba.It is very safe.
 
 	https://tradeassurance.alibaba.com/
+
+
+### 让客户先买样品
+
+	I suggest you buy some samples to check material/color/size.It is conducive to establish mutal trust between us.
