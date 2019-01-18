@@ -186,7 +186,9 @@ body#Answer
 
 ### 问你要catalog
 
-	 No. But we grouped the products by different collection 
+	 No. But we grouped the products by different collection .
+	Can you tell me what kind of device you are using? Mobile phone or computer.
+	I can tell you how to search for products.
 
 ### 快递，快慢
 
@@ -244,12 +246,79 @@ body#Answer
 
 ### 客户能不能货到付款
 
-	I completely understand your situation.But according to our company pocily,it isn't  acceptable.
-	You can check the following link about trade assurance in Alibaba.It is very safe.
+	I completely understand your situation.But according to our company pocily,
+	it isn't  acceptable.
+	You can check the following link about trade assurance in Alibaba.
+	It is very safe.
 
 	https://tradeassurance.alibaba.com/
 
 
 ### 让客户先买样品
 
-	I suggest you buy some samples to check material/color/size.It is conducive to establish mutal trust between us.
+	I suggest you buy some samples to check material/color/size.
+	It is conducive to establish mutal trust between us.
+
+### 
+	There is extra cost for the logo printing.
+
+	1. Logo setup fee
+
+        USd 120 for one color of logo
+
+	2. Logo printing cost
+
+         A: USd 1.0 per print for the order >50
+
+         B: USd 0.5 per print for the order >200
+
+         C: USd 0.25 per print for the order >1000
+
+
+### 
+
+	Thanks for your prompt response. 
+
+	We have some stock on this sock pattern leggings. Therefore your order of 50 pairs is acceptable for us. It is ok for you to order a sample first.  The sample cost USd 15, sample freight USd 20.  And then we will talk further.
+
+ 
+
+	By they way, if possible, could you tell me where you buy the heart leggings right now?
+
+
+	The leggings you inquired is a ready item. Less than 200 pairs is ok, but the price is different. If possible, could I know how many piece do you need?
+
+
+	We can not provide label logo printing for the order of 20 pairs.
+
+ 
+
+	You are welcome to order the items without logo and add the logo over there.
+
+	Thank you, that would be perfect. 
+
+	The bottom black you want it with mesh fabric or no mesh ?
+	I need to check whether the black mesh is available
+	If the black mesh is no stock. I suggest to you replace the black mesh with black fabrics
+	Do you have the size chart for the finished garment ?
+	Normally we use 88 polyester 12 spandex fabrics 250 gsm Sometimes 280 gsm. It will not see through
+	Yes you had better pass me the your size chart for the medium, to avoid any mistake
+	Ok. I need the specification of the finished garment instead of body. Please be informed
+	
+	Yes this will be slim fit这件会非常修身
+	Let’s work fast 
+	So I can send you the goods before China year 
+	Otherwise we will have long holiday
+	scrunch line 提臀线
+	屁股上面的~
+	You fill out all the information 
+	Hold on the payment 暂停付款
+	I will check it then let you make it payment 
+	The shipping from China to America will take 5 - 10 days 
+	Now the China new year is coming
+	If you can make the payment this week, we can send the goods next Monday I guess
+	If you order 4 pairs together, the freight will around just 30 for total 
+	Let me draft the order for you 
+	Even it is less than 250 gsm, many customer like it 
+	Let me screenshot the comment of other customer for you 
+	If your next order is over 200 sets, we would like to switch those sample cost as deposit for your new order. 
