@@ -205,7 +205,7 @@ body#Answer
 ###  问客户主要卖什么
 	Could I know your main business? 
 	Do you focus on the funtion of the yoga leggings or you care about the fashionality? 
-	It will decide what kind of leggings i should recommend you.
+	It will decide what kind of leggings I should recommend you.
 
 
 ### 客户不满足订货量，询价的是定做商品
@@ -322,3 +322,39 @@ body#Answer
 	Even it is less than 250 gsm, many customer like it 
 	Let me screenshot the comment of other customer for you 
 	If your next order is over 200 sets, we would like to switch those sample cost as deposit for your new order. 
+
+	We have too many models of products to make the printable catalog. Therefore, we have grouped our products by different collections. 
+
+ 
+
+	For the list, you are welcome to visit our new shop https://win-sir.en.alibaba.com/productlist.html?spm=a2700.icbuShop.88.17.629a7f2979v4ob
+
+ 
+
+	For the old shop  https://winsir.en.alibaba.com/productlist.html?spm=a2700.icbuShop.88.17.629a7f2979v4ob
+
+ 
+
+	by the way, could I know what is your main business and your target customer? And then I can recomond you some popular models.  Because some customer like the fashion design, and some other customer want the high quality funtion material, like yoga wear. 
+
+	时差Sorry I'm late reply.Because We have 13 hours of time difference.
+
+	as compensation作为补偿
+
+
+	the leggings bra set you ordered is popular.  We also have another products, the individual leggings which has 2.5cm elastic and full scrunch line.  Since you are buying the sample, i strongly suggest you to order both sample and offer more optiones for your customers, 
+
+	Hi Amme!You inquired about several items, which one do you want to buy?
+	I am still deciding. Thank you
+
+	支付方式What are your payment terms for new customers?
+	The payment term is 100% deposit by trade assurance or T/T.
+	
+	do you also have options of different colours? 
+ 	For the ready item, there is just one color. Other color should be customized.
+	This is one size to fit all
+
+	Since you need 4 pairs, you are welcome to order it online by yourself. Or you can pass me the size and color, then I draft the invoice for you.
+	the white color is easy to through
+
+	Other than this bubble textured yoga set, we also have the leggings, jumpsuit. and shorts.  Maybe you have interest in these items as well.  If you want them, please kindly search the "bubble textrured" in our shop winsir.en.alibaba.com
