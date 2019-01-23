@@ -358,3 +358,13 @@ body#Answer
 	the white color is easy to through
 
 	Other than this bubble textured yoga set, we also have the leggings, jumpsuit. and shorts.  Maybe you have interest in these items as well.  If you want them, please kindly search the "bubble textrured" in our shop winsir.en.alibaba.com
+
+	Our ready item is like what you see in our website.  But we can produce the pants as per your requirements. We have many years of experince in the OEM and OEM production.  
+ 
+	For 100 pants of blue and color leggings (the pants in the same color all over), USD 4.5 per piece excluding freight. 
+
+	As for the tracksuit you inquired, we have 3 color and 4 sized in stock. There is material, color and size chart in the product page. Please kindly check it. If you want further information please let me know.
+
+	蜂窝库 ，tops
+
+	The exchange rate of US dollar to RMB is 6.8
