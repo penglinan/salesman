@@ -368,3 +368,42 @@ body#Answer
 	蜂窝库 ，tops
 
 	The exchange rate of US dollar to RMB is 6.8
+
+	We paid extended Area surcharge for it,so we lost money in this order.
+	We beared the cost this time to make long-term business with you.
+	Looking forward to getting your bulk order.
+
+	Dear Mario Czerniewicz      It is a great honor to get your inquiry. This is Diamond Chang from Winsir Industry (Shanghai) Co., Ltd. We are the leading supplier of activewear from china. And we do have many years of experience in the athletic pants.   The best Material we have is 73 polyester 27 spandex, 260 gsm (Nu Lu type of lulu lemon). Even that it is made of polyester blend. Because of the special knitting, it has really naked feeling and will not see through. Besides, we also has 87 nylon 13 spandex, Wright from 280 gsm to 300 gsm and 88 polyester 12 spandex 250 gsm to 300 gsm.  Which material do you want? And which model you have interest?   Looking forward to hearing from you soon.   best regards   Diamond Chang Winsir Industry (Shanghai) Co., ltd
+
+###Notice:
+	The express company do not work before Feb 10th 2019.Becasue Chinese New Year is coming,workers will have a long holiday.
+	By the way,our stock is limited.  Please place the order with payment ASAP, we will reserve the products for you.Otherwise, these products may be purchased by other customers.
+	approximately?大约
+
+	The courier company 快递公司
+
+	Dear Roman
+ 
+	 
+	It is a great honor to get your inquiry.
+	 
+	As for the leggings you inquired, it is ready item. Our stocked one is one size to fit all. If you need  other sizes, it could be customized.
+	 
+	The Quotation for the ready item:
+	Material: 180GSM 92 polyester 8 spandex,
+	Ex.work Price: USd 2.8 based on Order Quantity 500 pairs
+	Average Unit Freight: USd 1.2 per pair
+	Shipping Time: It will take 5-10 days from china to germany.
+	Attached is the real life picture. Please kindly check it.
+	 
+	 
+	best regards
+	 
+	Diamond Chang 
+
+	涤纶87 13 250-300 多见
+	    85 15这个是好一点的
+	尼龙 87 13 280-300多见
+
+
+	340的不常见，1吨起的。300完全够用了。
